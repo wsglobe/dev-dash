@@ -7,11 +7,20 @@ The second part of this project focus on creating some widgets to display develo
 ## 🖥 Demo
 ![](dev_dash.png)
 
-## Running the demo
+## Getting Started
 
-1. git clone 
-1. cd 
+1. git clone https://github.com/wsglobe/dev-dash.git
+1. cd dev-dash
 1. npm install
-1. node ./examples/dashboard.js
+1. npm start
+
+## Tech Stack
+* React
+* react-blessed
+* react-blessed-contrib
+* chalk
+* figlet
+* weather.js
+
 
 
