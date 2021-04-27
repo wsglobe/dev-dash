@@ -6,4 +6,12 @@ The second part of this project focus on creating some widgets to display develo
 
 ## 🖥 Demo
 ![](dev_dash.png)
-![](dev_dash.gif)
+
+## Running the demo
+
+1. 1git clone https://github.com/yaronn/blessed-contrib.git
+1. cd blessed-contrib
+1. npm install
+1. node ./examples/dashboard.js
+
+
