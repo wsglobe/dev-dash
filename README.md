@@ -9,8 +9,8 @@ The second part of this project focus on creating some widgets to display develo
 
 ## Running the demo
 
-1. 1git clone https://github.com/yaronn/blessed-contrib.git
-1. cd blessed-contrib
+1. git clone 
+1. cd 
 1. npm install
 1. node ./examples/dashboard.js
 
