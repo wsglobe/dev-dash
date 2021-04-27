@@ -5,7 +5,7 @@ The fisrt part of this project focus on various ways to layout the dashboard, sh
 The second part of this project focus on creating some widgets to display developer content such as an interactive time log, a pomodoro timer, displaying recent commits, currently running docker containers, and more.
 
 ## 🖥 Demo
-![](dev_dash.png)
+![dev_dash](https://user-images.githubusercontent.com/63996774/116183318-4330f100-a6e3-11eb-94b3-cb15d1a69997.gif)
 
 ## Getting Started
 
