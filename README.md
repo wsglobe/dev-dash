@@ -6,4 +6,4 @@ The second part of this project focus on creating some widgets to display develo
 
 ## 🖥 Demo
 ![](dev_dash.png)
-![](dev_dash.mp4)
+![](dev_dash.gif)
